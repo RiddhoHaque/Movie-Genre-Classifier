@@ -1,0 +1,209 @@
+For genre 0
+Max. dis=0.681090625541
+Mean dis=0.553956535211
+Var. of dis=0.0123148096011
+For genre 1
+Max. dis=0.952611812409
+Mean dis=0.553878538391
+Var. of dis=0.0142405140037
+For genre 2
+Max. dis=0.804758781171
+Mean dis=0.553910107832
+Var. of dis=0.0138221398496
+For genre 3
+Max. dis=0.928248954937
+Mean dis=0.554079682128
+Var. of dis=0.0141626185827
+For genre 4
+Max. dis=0.723983503438
+Mean dis=0.553221348281
+Var. of dis=0.012238593465
+For genre 5
+Max. dis=0.87383943525
+Mean dis=0.553546425689
+Var. of dis=0.0137670377148
+For genre 6
+Max. dis=0.844480402184
+Mean dis=0.553852217624
+Var. of dis=0.0141384160437
+For genre 7
+Max. dis=0.83652749229
+Mean dis=0.553779980734
+Var. of dis=0.0140068805599
+For genre 8
+Max. dis=0.64423170843
+Mean dis=0.552557053574
+Var. of dis=0.0105975745045
+For genre 9
+Max. dis=0.649465553721
+Mean dis=0.55283746357
+Var. of dis=0.0108322415785
+For genre 10
+Max. dis=0.778261220464
+Mean dis=0.553563468398
+Var. of dis=0.0134631591158
+Differentiability of genre 0 and genre 1:
+Worst case difference=0.541252512585
+Avg case difference=0.550824877896
+Differentiability of genre 0 and genre 2:
+Worst case difference=0.540436519647
+Avg case difference=0.544965897272
+Differentiability of genre 0 and genre 3:
+Worst case difference=0.540378103357
+Avg case difference=0.546244543029
+Differentiability of genre 0 and genre 4:
+Worst case difference=0.540796274224
+Avg case difference=0.545683018929
+Differentiability of genre 0 and genre 5:
+Worst case difference=0.541647301024
+Avg case difference=0.550872548419
+Differentiability of genre 0 and genre 6:
+Worst case difference=0.540571841173
+Avg case difference=0.546688161005
+Differentiability of genre 0 and genre 7:
+Worst case difference=0.540504608469
+Avg case difference=0.552653370269
+Differentiability of genre 0 and genre 8:
+Worst case difference=0.540980025114
+Avg case difference=0.554516694619
+Differentiability of genre 0 and genre 9:
+Worst case difference=0.540423304426
+Avg case difference=0.545788427721
+Differentiability of genre 0 and genre 10:
+Worst case difference=0.54063049736
+Avg case difference=0.550838110049
+Differentiability of genre 1 and genre 2:
+Worst case difference=0.540759311178
+Avg case difference=0.546374808626
+Differentiability of genre 1 and genre 3:
+Worst case difference=0.540468929687
+Avg case difference=0.545143613609
+Differentiability of genre 1 and genre 4:
+Worst case difference=0.540571116277
+Avg case difference=0.545061447891
+Differentiability of genre 1 and genre 5:
+Worst case difference=0.54043132143
+Avg case difference=0.544064280107
+Differentiability of genre 1 and genre 6:
+Worst case difference=0.540766235993
+Avg case difference=0.54475674326
+Differentiability of genre 1 and genre 7:
+Worst case difference=0.540552524431
+Avg case difference=0.543007806439
+Differentiability of genre 1 and genre 8:
+Worst case difference=0.541119210111
+Avg case difference=0.545154434247
+Differentiability of genre 1 and genre 9:
+Worst case difference=0.540562079287
+Avg case difference=0.545461122976
+Differentiability of genre 1 and genre 10:
+Worst case difference=0.540835131219
+Avg case difference=0.543794025158
+Differentiability of genre 2 and genre 3:
+Worst case difference=0.540518270229
+Avg case difference=0.544840745691
+Differentiability of genre 2 and genre 4:
+Worst case difference=0.540782387255
+Avg case difference=0.545736825939
+Differentiability of genre 2 and genre 5:
+Worst case difference=0.540702508346
+Avg case difference=0.549698157882
+Differentiability of genre 2 and genre 6:
+Worst case difference=0.540601957597
+Avg case difference=0.545726162783
+Differentiability of genre 2 and genre 7:
+Worst case difference=0.540385496626
+Avg case difference=0.551117725607
+Differentiability of genre 2 and genre 8:
+Worst case difference=0.540710616567
+Avg case difference=0.553254169083
+Differentiability of genre 2 and genre 9:
+Worst case difference=0.540478960714
+Avg case difference=0.545597704421
+Differentiability of genre 2 and genre 10:
+Worst case difference=0.540358106489
+Avg case difference=0.548581786687
+Differentiability of genre 3 and genre 4:
+Worst case difference=0.540700155947
+Avg case difference=0.546024236768
+Differentiability of genre 3 and genre 5:
+Worst case difference=0.540457007389
+Avg case difference=0.544277586538
+Differentiability of genre 3 and genre 6:
+Worst case difference=0.540446411692
+Avg case difference=0.542218544843
+Differentiability of genre 3 and genre 7:
+Worst case difference=0.540608040754
+Avg case difference=0.546420005597
+Differentiability of genre 3 and genre 8:
+Worst case difference=0.540434903244
+Avg case difference=0.546612649208
+Differentiability of genre 3 and genre 9:
+Worst case difference=0.540395315958
+Avg case difference=0.546857619941
+Differentiability of genre 3 and genre 10:
+Worst case difference=0.540610559374
+Avg case difference=0.544288622006
+Differentiability of genre 4 and genre 5:
+Worst case difference=0.540450084452
+Avg case difference=0.551665728501
+Differentiability of genre 4 and genre 6:
+Worst case difference=0.540862232377
+Avg case difference=0.545761228234
+Differentiability of genre 4 and genre 7:
+Worst case difference=0.541052347098
+Avg case difference=0.555321595819
+Differentiability of genre 4 and genre 8:
+Worst case difference=0.540491671838
+Avg case difference=0.555292983275
+Differentiability of genre 4 and genre 9:
+Worst case difference=0.540783883354
+Avg case difference=0.545311391031
+Differentiability of genre 4 and genre 10:
+Worst case difference=0.540515050684
+Avg case difference=0.55274608736
+Differentiability of genre 5 and genre 6:
+Worst case difference=0.540695815576
+Avg case difference=0.546039695481
+Differentiability of genre 5 and genre 7:
+Worst case difference=0.541056025008
+Avg case difference=0.546038017057
+Differentiability of genre 5 and genre 8:
+Worst case difference=0.540871026136
+Avg case difference=0.546060623391
+Differentiability of genre 5 and genre 9:
+Worst case difference=0.541197033024
+Avg case difference=0.546609445533
+Differentiability of genre 5 and genre 10:
+Worst case difference=0.541018710786
+Avg case difference=0.544953078806
+Differentiability of genre 6 and genre 7:
+Worst case difference=0.540528453623
+Avg case difference=0.547192452325
+Differentiability of genre 6 and genre 8:
+Worst case difference=0.540558607048
+Avg case difference=0.549091145122
+Differentiability of genre 6 and genre 9:
+Worst case difference=0.540484797034
+Avg case difference=0.546685663402
+Differentiability of genre 6 and genre 10:
+Worst case difference=0.540403021351
+Avg case difference=0.546605726604
+Differentiability of genre 7 and genre 8:
+Worst case difference=0.540496195374
+Avg case difference=0.545148736974
+Differentiability of genre 7 and genre 9:
+Worst case difference=0.540508887396
+Avg case difference=0.544960271437
+Differentiability of genre 7 and genre 10:
+Worst case difference=0.540495678484
+Avg case difference=0.54256065697
+Differentiability of genre 8 and genre 9:
+Worst case difference=0.540832676975
+Avg case difference=0.545958549839
+Differentiability of genre 8 and genre 10:
+Worst case difference=0.540791456549
+Avg case difference=0.54497931119
+Differentiability of genre 9 and genre 10:
+Worst case difference=0.540589337634
+Avg case difference=0.551702895917
