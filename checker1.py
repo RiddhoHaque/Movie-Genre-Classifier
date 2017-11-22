@@ -39,6 +39,9 @@ for lineReal in real:
 	cnt +=1	
 	if cnt != 0:
 		order.append(lineReal)
+total_count += 1.0
+for i in range(len(res)):
+	count[i] += res[i]
 for i in range(len(res)):
 	count[i] /= total_count
 	sentence = "For " + str(i+1) + ": " + str(count[i]*100) + "\n"
