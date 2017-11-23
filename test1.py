@@ -132,8 +132,8 @@ def readTestData(filename):
 		for i in range(11):
 			pp=number_of_clusters+1			
 			for j in range(number_of_clusters):
-				if(cVg[j][i]<pp):
-					pp=cVg[j][i]
+				if(cVg[j][i]=='1' and ind[j]<pp):
+					pp=ind[j]
 			priority[i]=pp
 		sorted_list=[i[0] for i in sorted(enumerate(priority), key=lambda x:x[1])]
 		prediction.write(str(count)+"\n")		
